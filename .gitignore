@@ -1,0 +1,18 @@
+# 密钥与本地配置
+.env
+
+# 虚拟环境
+.venv/
+venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 整理结果（笔记正文不宜提交，图谱/历史文件同样忽略）
+notes-organized/
+
+# 系统与编辑器
+.vscode/
+.DS_Store
+Thumbs.db
